@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "cstdlib": "c",
+        "locale": "c",
+        "new": "c",
+        "ostream": "c",
+        "memory_resource": "c",
+        "memory": "c",
+        "f021_f2837xd_c28x.h": "c"
+    }
+}
